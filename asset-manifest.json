@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/taylor-timer/static/css/main.664af194.css",
-    "main.js": "/taylor-timer/static/js/main.2ab7e896.js",
+    "main.js": "/taylor-timer/static/js/main.1b73a6c2.js",
     "index.html": "/taylor-timer/index.html",
     "main.664af194.css.map": "/taylor-timer/static/css/main.664af194.css.map",
-    "main.2ab7e896.js.map": "/taylor-timer/static/js/main.2ab7e896.js.map"
+    "main.1b73a6c2.js.map": "/taylor-timer/static/js/main.1b73a6c2.js.map"
   },
   "entrypoints": [
     "static/css/main.664af194.css",
-    "static/js/main.2ab7e896.js"
+    "static/js/main.1b73a6c2.js"
   ]
 }
