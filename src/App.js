@@ -4,7 +4,7 @@ import RecordPlayer from './RecordPlayer';
 
 
 function App() {
-  const dateTarget = new Date('May 27, 2023 18:30:00');
+  const dateTarget = new Date('May 28, 2023 18:30:00');
   // const dateTarget2 = new Date('May 26, 2023 18:30:00');
   // const dateNow = new Date().getTime();
 
@@ -14,7 +14,7 @@ function App() {
 
         <main className="px-3 my-auto">
           <h1 className='til-title'>Time Til Taylor</h1>
-          <h3 className="target-date my-3 py-3">Saturday, May 27th, 2023 at 18:30</h3>
+          <h3 className="target-date my-3 py-3">Sunday, May 28th, 2023 at 18:30</h3>
           <CountdownTimer targetDate={dateTarget} />
           <div className='record-cabinet'>
             <RecordPlayer />
