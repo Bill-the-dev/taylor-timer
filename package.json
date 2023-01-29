@@ -1,6 +1,6 @@
 {
-  "name": "taylor-timely",
-  "homepage": "http://Bill-the-dev.github.io/taylor-timely",
+  "name": "taylor-timer",
+  "homepage": "http://Bill-the-dev.github.io/taylor-timer",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
